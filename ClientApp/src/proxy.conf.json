@@ -1,0 +1,9 @@
+
+{
+     "/": {
+    "target": "https://webappsdev.iltest.illinois.gov/DES/CSRTool",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
